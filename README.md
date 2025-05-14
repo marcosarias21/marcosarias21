@@ -7,7 +7,5 @@
     <a href="https://www.linkedin.com/in/marcos-ar/" target="_blank" style='margin-right:4px'>
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marcosar" height="28px" width="28px" />
     </a>
-    <a href="https://www.instagram.com/marcosarias16/" target="_blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="marcosar" height="28px" width="28px" />
-    </a>
+   
 </p>
